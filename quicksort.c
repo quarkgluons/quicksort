@@ -2,6 +2,7 @@
 
 void foo () {
     printf("Entered foo\n");
+    return;
 }
 
 int main () {
